@@ -1,4 +1,6 @@
-# Omnifood
+# Project Title
+
+Omnifood
 
 ## About Omnifood
 
