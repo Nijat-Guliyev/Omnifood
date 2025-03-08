@@ -141,3 +141,7 @@ Privacy & terms
 - Pricing + features
 - CTA
 - Footer
+
+## Author
+
+Modified by [Nijat](https://www.linkedin.com/in/nijat-guliyev-1949a4294/). Feel free to check out my [GitHub profile](https://github.com/Nijat-Guliyev) for more projects!
